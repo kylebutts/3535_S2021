@@ -30,6 +30,7 @@ xaringanExtra::use_panelset()
 
 
 ---
+class: middle, inverse
 # Lecture 27
 
   - Valuation overview
@@ -219,6 +220,7 @@ Next time
 
 
 ---
+class: middle, inverse
 # Lecture 28
 
   - Different types of value
@@ -396,6 +398,7 @@ More of Chapter 4
 
 
 ---
+class: middle, inverse
 # Lecture 29
 
   - Revealed preference methods
@@ -565,6 +568,7 @@ Wealthier people end up having a higher VSL (yikes)
 
 
 ---
+class: middle, inverse
 # Lecture 30
 
   - Ecosystem services
@@ -740,6 +744,7 @@ White House policy in 2015
 
 
 ---
+class: middle, inverse
 # Lecture 31
 
   - Bioeconomic systems
@@ -979,6 +984,7 @@ Why is the maximum profit? Two ways to think about it:
 
 
 ---
+class: middle, inverse
 # Lecture 32
   - Dynamic fisheries
 
@@ -1078,6 +1084,7 @@ This often leads to overfishing
 
 
 ---
+class: middle, inverse
 # Lecture 33
 
   - Forestry
@@ -1282,6 +1289,7 @@ Chapter 10
 
 
 ---
+class: middle, inverse
 # Lecture 34
 
   - Land use
@@ -1447,6 +1455,7 @@ Weak form: food prices are rising faster than other prices
 
 
 ---
+class: middle, inverse
 # Lecture 35
 - Water
 
@@ -1621,6 +1630,7 @@ Recent droughts put stress on the region
 
 
 ---
+class: middle, inverse
 # Lecture 36
 - Waste and Recycling
 

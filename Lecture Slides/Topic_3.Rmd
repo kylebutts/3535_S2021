@@ -31,6 +31,7 @@ xaringanExtra::use_panelset()
 - [The Uninhabitable Earth](../Articles/The Uninhabitable Earth.pdf) ([online version](https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html)).
 
 ---
+class: middle, inverse
 # Lecture 22 
 
 - Climate change
@@ -207,6 +208,7 @@ TBD
 
 
 ---
+class: middle, inverse
 # Lecture 23
 
 - Policies for local air pollution
@@ -350,6 +352,7 @@ Example: Cancer Alley - [Why This Town is Dying From Cancer](https://www.youtube
 
 
 ---
+class: middle, inverse
 # Lecture 24
 
   - International air pollution policies
@@ -535,6 +538,7 @@ Russia’s economic recession led to accidental compliance and lots of extra per
 
 
 ---
+class: middle, inverse
 # Lecture 25
 
   - Paris Agreement
@@ -800,6 +804,7 @@ TBD: about Biden's Climate Efforts
 
 
 ---
+class: middle, inverse
 # Lecture 26
 
   - Environmental taxes
