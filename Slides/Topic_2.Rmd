@@ -228,8 +228,6 @@ knitr::include_graphics("graphics/lcoe.png")
 ## Reading for next time
 - ["Will we ever stop using fossil fuels?"](aeaweb.org/articles?id=10.1257/jep.30.1.117), pages 117-120
 
-I will reference this paper several times, so it wouldn’t hurt to read further
-
 - "Electricity" and Examples 7.5 and 7.6, pages 163-168
 
 
@@ -692,7 +690,7 @@ Still emits plenty of CO2
 .pull-right[
 *Bad news*
 
-[Renewables Are Expanding at an Astounding Pace. But It’s Still Not Enough to Meet Climate Goals](../Articles/Renewables Are Expanding at an Astounding Pace. But It's Still Not Enough to Meet Climate Goals | Greentech Media.pdf)
+[Renewables Are Expanding at an Astounding Pace. But It’s Still Not Enough to Meet Climate Goals](../Articles/Renewables Are Expanding at an Astounding Pace. But Its Still Not Enough to Meet Climate Goals | Greentech Media.pdf)
 ([online version](https://www.greentechmedia.com/articles/read/renewable-energy-growth-is-still-not-enough-to-meet-climate-goals)).
 ]
 
@@ -863,7 +861,7 @@ Recall the problem of non-constant externalities
 ---
 ## Reading for next time
 
-- Interview with NREL Researcher: [Solar power’s greatest challenge was discovered 10 years ago. It looks like a duck. ](../Articles/Solar power's greatest challenge was discovered 10 years ago. It looks like a duck- Vox.pdf) ([online version](https://www.vox.com/energy-and-environment/2018/3/20/17128478/solar-duck-curve-nrel-researcher)).
+- Interview with NREL Researcher: [Solar power’s greatest challenge was discovered 10 years ago. It looks like a duck. ](../Articles/Solar powers greatest challenge was discovered 10 years ago. It looks like a duck - Vox.pdf) ([online version](https://www.vox.com/energy-and-environment/2018/3/20/17128478/solar-duck-curve-nrel-researcher)).
 
 
 ---
