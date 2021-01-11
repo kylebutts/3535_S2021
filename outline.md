@@ -2,7 +2,6 @@
 
 ## Lecture 1
 
-*Topics*
 
 - Intro to Class
 
@@ -15,7 +14,6 @@
 
 ## Lecture 2
 
-*Topics*
 
 - Economic tools for analyzing natural resource problems
 
@@ -34,7 +32,6 @@
 
 ## Lecture 3
 
-*Topics*
 
 - Resource taxonomy
 
@@ -53,7 +50,6 @@
 
 ## Lecture 4
 
-*Topics*
 
 - Mineral two-period model
 
@@ -66,7 +62,6 @@
 
 ## Lecture 5
 
-*Topics*
 
 - Two-period model wrap up
 
@@ -78,8 +73,7 @@
 
 
 ## Lecture 6
-
-*Topics*  
+  
 
 - Efficiency
 
@@ -96,7 +90,6 @@
 
 ## Lecture 7
 
-*Topics*
 
 - Coase theorem
 
@@ -114,7 +107,6 @@
 
 ## Lecture 8
 
-*Topics*
 
 - Policy tools
 
@@ -128,7 +120,6 @@
 
 
 ## Lecture 9
-*Topics*
 
 - Policy comparisons
 
@@ -140,15 +131,13 @@
 
 
 ## Lecture 10
-*Topics*
 
 - Policies Continued
 
 - Numerical Exercise
 
 
-# Lecture 11
-*Topics*
+## Lecture 11
 
 - Taxes and Deadweight Loss
 
@@ -162,7 +151,6 @@
 
 
 ## Lecture 12
-*Topics*
 
 - Growth and Development
 
@@ -181,13 +169,11 @@
 # Unit 2: Energy Resources
 
 ## Lecture 13
-*Topics*
 
 - Energy Overview
 
 
 ## Lecture 14
-*Topics*
 
 - Electricity Industry
 
@@ -199,7 +185,6 @@
 
 
 ## Lecture 15
-*Topics*
   
 - Coal
   
@@ -214,8 +199,7 @@
 - "Uranium", pages 159-163
 
 
-## Lecture 16
-*Topics*  
+## Lecture 16  
 
 - Natural Gas
 
@@ -227,7 +211,6 @@
 
 
 ## Lecture 17
-*Topics*
 
 - Renewables overview
 
@@ -245,7 +228,6 @@
 
 
 ## Lecture 18
-*Topics*
 
 - Solar
 
@@ -255,7 +237,6 @@
 
 
 ## Lecture 19
-*Topics*
 
 - Energy storage
 
@@ -269,19 +250,17 @@
 
 
 ## Lecture 20
-*Topics*
 
 - Hydroelectric
 
 - Biofuels
 
-*Readings*
+*Videos*
 
 - [The Future of Energy Storage Beyond Lithium Ion](https://www.youtube.com/watch?v=EoTVtB-cSps)
 
 
 ## Lecture 21
-*Topics*
 
 - Transportation
 
@@ -293,7 +272,6 @@
 # Unit 3: Pollution, Climate Change, and Policy
 
 ## Lecture 22 
-*Topics*
 
 - Climate change
 
@@ -307,7 +285,6 @@
 
 
 ## Lecture 23
-*Topics*
 
 - Policies for local air pollution
 
@@ -321,7 +298,6 @@
 
 
 ## Lecture 24
-*Topics*
 
 - International air pollution policies
 
@@ -329,12 +305,10 @@
 
 - [A Brief History of Environmental Justice](https://www.youtube.com/watch?v=30xLg2HHg8Q)
 
-- Example: Cancer Alley 
-- [Why This Town is Dying From Cancer](https://www.youtube.com/watch?v=ZB8CbDG7gpk)
+- Example: Cancer Alley [Why This Town is Dying From Cancer](https://www.youtube.com/watch?v=ZB8CbDG7gpk)
 
 
 ## Lecture 25
-*Topics*
 
 - Paris Agreement
 
@@ -344,13 +318,12 @@
 
 - [Most countries aren't hitting 2030 climate goals, and everyone will pay the price](https://kylebutts.com/ECON3535_S2021/Articles/Most%20countries%20arent%20hitting%202030%20climate%20goals,%20and%20everyone%20will%20pay%20the%20price.pdf) ([online version](https://www.nationalgeographic.com/science/2019/11/nations-miss-paris-targets-climate-driven-weather-events-cost-billions/)).
 
-- [China’s Pledge to Be Carbon Neutral by 2060 - What It Means](https://kylebutts.com/ECON3535_S2021/Articles/Chinas%20Pledge%20to%20Be%20Carbon%20Neutral%20by%202060%20-%20What%20It%20Means%20-%20The%20New%20York%20Times.pdf) ([online version](https://www.nytimes.com/2020/09/23/world/asia/china-climate-change.html)).
+- [China’s Pledge to Be Carbon Neutral by 2060 - What It Means](https://kylebutts.com/ECON3535_S2021/Articles/Chinas%20Pledge%20to%20Be%20Carbon%20Neutral%20by%202060-%20What%20It%20Means%20-%20The%20New%20York%20Times.pdf) ([online version](https://www.nytimes.com/2020/09/23/world/asia/china-climate-change.html)).
 
 - [John Kerry, Biden’s Climate Czar, Talks About Saving the Planet](https://kylebutts.com/ECON3535_S2021/Articles/John%20Kerry,%20Bidens%20Climate%20Czar,%20Talks%20About%20Saving%20the%20Planet%20—%20ProPublica.pdf) ([online version](https://www.propublica.org/article/john-kerry-biden-climate-czar)).
 
 
 ## Lecture 26
-*Topics*
 
 - Environmental taxes
 
@@ -369,7 +342,6 @@
 
 
 ## Lecture 27
-*Topics*
 
 - Valuation overview
 
@@ -383,7 +355,6 @@
 
 
 ## Lecture 28
-*Topics*
 
 - Different types of value
 
@@ -395,7 +366,6 @@
 
 
 ## Lecture 29
-*Topics*
 
 - Revealed preference methods
 
@@ -405,7 +375,6 @@
 
 
 ## Lecture 30
-*Topics*
 
 - Ecosystem services
 
@@ -415,7 +384,6 @@
 
 
 ## Lecture 31
-*Topics*
 
 - Bioeconomic systems
 
@@ -423,13 +391,14 @@
 
 *Readings*
 
-- [Climate change and coral reefs](http://www.teachoceanscience.net/teaching_resources/education_modules/coral_reefs_and_climate_change/how_does_climate_change_affect_coral_reefs/)
+- Video: [The economic, social and icon value of the Great Barrier Reef](https://www.youtube.com/watch?v=b3iJ2X9Vjnw)
 
-- [Bees](https://www.vox.com/2015/7/6/8900605/bees-pollination-ecosystem-services)
+- [What Is The Real Value Of The Great Barrier Reef?](https://kylebutts.com/ECON3535_S2021/Articles/What%20Is%20The%20Real%20Value%20Of%20The%20Great%20Barrier%20Reef%20|%20HuffPost) ([online version](https://www.huffpost.com/entry/what-is-the-real-value-of-the-great-barrier-reef_b_595cbea4e4b0326c0a8d13c7))
+
+- [What bees can teach us about the real value of protecting nature](https://kylebutts.com/ECON3535_S2021/Articles/What%20bees%20can%20teach%20us%20about%20the%20real%20value%20of%20protecting%20nature%20-%20Vox.pdf) ([online version](https://www.vox.com/2015/7/6/8900605/bees-pollination-ecosystem-services)).
 
 
 ## Lecture 32
-*Topics*
 
 - Dynamic fisheries
 
@@ -441,7 +410,6 @@
 
 
 ## Lecture 33
-*Topics*
 
 - Forestry
 
@@ -451,7 +419,6 @@
 
 
 ## Lecture 34
-*Topics*
 
 - Land use
 
@@ -463,7 +430,6 @@
 
 
 ## Lecture 35
-*Topics*
 
 - Water
 
@@ -473,7 +439,6 @@
 
 
 ## Lecture 36
-*Topics*
 
 - Waste and Recycling
 
