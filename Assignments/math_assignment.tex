@@ -1,0 +1,133 @@
+\documentclass[11pt]{article}
+
+\author{\normalsize Kyle Butts\\{\footnotesize Univ. of Colorado, Boulder}}
+\date{\footnotesize\today}
+
+% Include Theme
+\input{preamble.tex}
+
+
+\begin{document}
+
+\begin{center}
+    \color{navyblue}
+    {\Large ECON 3535 Spring 2021 \\ \textit{Math Assignment}}
+
+    Due: February $15^{th}$
+\end{center}
+
+\noindent
+\textbf{Instructions:} Circle your numerical solutions for clarity. You may work in groups (up to 4 members)
+to turn in one set of solutions.
+
+\begin{center}
+    \underline{Part 1 -- Two period model of a non-renewable resource}
+\end{center}
+
+\noindent
+\underline{Scenario}: Consider an aluminum mine that is operating for two periods and wants to maximize extraction profits.
+
+\begin{itemize}
+    \item Period 1's demand for aluminum is given by the equation: $P = 210 - 1.5Q$
+    
+    \item In Period 2, the population is greater but there are also different uses for aluminum that affect demand. They have a different demand function: $P = 190 - Q$
+
+    \item The marginal cost of extraction is constant and equal in both periods: $MC = 30$
+    
+    \item The resource endowment of aluminum to be allocated across both periods is $200$ units and the future is discounted at rate $r = 5\%$ per period.
+\end{itemize}
+
+
+\begin{enumerate}
+    \item Suppose that users in Period 1 are selfish, and do not account for the welfare of users in Period 2.
+    \begin{enumerate} 
+        \item How much aluminum will be consumed in Period 1?
+        
+        \item How much aluminum will be consumed in Period 2?
+        
+        \item What is the marginal user cost in each period?
+    \end{enumerate}
+    
+    \item Determine the social planner’s optimal allocation of aluminum across Periods 1 and 2 when users in both periods are considered jointly.
+    \begin{enumerate}
+        \item What is the optimal amount for Period 1 users to extract?
+        
+        \item How much is left over for users in Period 2?
+        
+        \item What is the marginal user cost in each period?
+    \end{enumerate}
+    
+    \item Using the graph concept from Lecture 4, explain why the outcome in part (1) is inefficient relative to the outcome in part (2). (2-3 sentences) Hint : think about economic surplus.
+    
+    \item (challenging) What would the discount rate “r” need to be in order to optimally solve the two-period model with equal quantities consumed in both periods?
+    
+    \item Instead of marginal cost being constant and equal to 30, now suppose marginal cost rises with the number of units extracted, which could be a more realistic assumption. Now, $MC = 30 + 0.5Q$ for both periods. What is the new optimal allocation across periods 1 and 2?
+\end{enumerate}
+
+
+
+
+\newpage
+
+\begin{center}
+    \underline{Part 2 -- Tradable Permits}
+\end{center}
+
+\noindent
+\underline{Scenario}: Consider two utilities X and Y, which are subject to pollution control regulation. They try to maximize their own profit.
+
+\begin{itemize}
+    \item The price for electricity generation received by each utility is \$100/MWh.
+    \item Assume that each firm produces 1 MWh of power regardless of regulation.
+    \item Each utility separately emits 10.0 lbs of NOx/MWh in the absence of regulation.
+    \item The regulator wishes to limit total emissions to 14.0 lbs of NOx/MWh.
+    \begin{itemize}
+        \item In other words, the goal is total abatement of 6.0 lbs of NOx/MWh ( because 10 + 10 - 14 = 6).
+    \end{itemize}
+
+    \item Utility X has a total abatement cost of $TAC_x(a_x) = 3a_x^2$ and marginal abatement cost of $MAC_x = 6a_x$.
+
+    \item Utility Y has a total abatement cost of $TAC_x(a_x) = 8a_x^2$ and marginal abatement cost of $MAC_x = 16a_x$.
+\end{itemize}
+
+Keep in mind that profit is equal to total revenue minus total cost.
+
+\begin{enumerate}
+    \item  Both firms are under a \textbf{uniform standard}, where they evenly split the total abatement. For each firm, calculate:
+    \begin{itemize}
+        \item Abatement ($a_x$ and $a_y$)
+        
+        \item $MAC$ for the last unit of abatement
+        
+        \item Total profits
+    \end{itemize}
+    
+    \item  Now, assume both firms are under a \textbf{tradable permits program}, where firms may trade permits to pollute according to their marginal abatement costs. Calculate:
+    \begin{enumerate}
+        \item Abatement ($a_x$ and $a_y$)
+        
+        \item $MAC$ for the last unit of abatement
+        
+        \item Total profits
+        
+        \item Using specific numbers, explain why this policy is more efficient than the other.
+    \end{enumerate}
+    
+    \item  (challenging) Recall from class that the initial allocation of permits does not influence the total profit or total abatement, but it can change how individual firms are affected. Assume that permits exist in continuous quantities. (i.e. they don’t have to be whole numbers)
+    \begin{enumerate}
+        \item What is the initial permit allocation that results in no need for trading? (hint: the regulator happens to get it right)
+        
+        \item Which firm would prefer a uniform standard instead of a tradable permits program? Why would they have this preference?
+        
+        \item How many permits would this firm have to receive initially in order to be indifferent between the two? (You may assume that the equilibrium permit price is where the MAC curves cross)
+    \end{enumerate}
+\end{enumerate}
+
+
+
+
+
+
+
+
+\end{document}
