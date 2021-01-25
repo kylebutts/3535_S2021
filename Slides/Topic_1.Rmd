@@ -101,7 +101,7 @@ matrix(
 ) %>% 
   kbl() %>% 
   kable_styling(bootstrap_options = c("hover")) %>% 
-  row_spec(1:3, background = "white")
+  row_spec(1:3, background = FALSE)
 ```
 
 
@@ -433,6 +433,37 @@ Polluters are often required to pay fees for damages done to natural habitats
 
 Does lower interest rate yield more or less investments?
 
+
+---
+### Climate Change Example
+
+Let's say climate change will cost $2 trillion dollars 100 years from now (per year).
+
+How much would we invest today to avoid this this cost:
+
+$r = 0.03$: 
+
+$$2,000,000,000,000/(1.03)^{100} = 104 \text{ billion}$$
+
+$r = 0.07$:
+
+$$2,000,000,000,000/(1.07)^{100} = 2.3 \text{ billion}$$
+
+---
+### Net Present Value Stream
+
+Of course, climate change will create costs for each year, so we will add up all the present value of costs per year:
+
+$$C_1/(1 + r)^1 + C_2/(1+r)^2 + \dots + C_{100}/(1+r)^{100} + \dots$$
+This value is the willingness to pay for climate change today.
+
+<br>
+<hr>
+Two important considerations:
+
+1. What is the appropriate value of $r$?
+
+2. Since 2010, the investment cost of stopping climate change has dropped precipitously
 
 
 ---
