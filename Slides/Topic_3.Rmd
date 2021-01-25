@@ -7,7 +7,7 @@ date: "2020-01-03 (updated: `r Sys.Date()`)"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: [default, metropolis-fonts]
+    css: [default, metropolis-fonts, xaringan-themer.css]
     nature:
       highlightStyle: github
       highlightLines: true
@@ -22,6 +22,11 @@ library(xaringanExtra)
 
 
 xaringanExtra::use_panelset()
+```
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+library(xaringanthemer)
+style_mono_light(base_color = "#23395b", white_color = lighten_color("#23395b", strength = 0.98), link_color = "#de3f3c")
 ```
 
 
