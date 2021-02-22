@@ -188,7 +188,7 @@ For natural gas and oil, we have maintained around 50 years of reserves (at curr
 knitr::include_graphics("graphics/covert_greenstone_knittel_fig1.png")
 ```
 
-Source: [Covert, Greenstone, and Knittel (2016)](aeaweb.org/articles?id=10.1257/jep.30.1.117)
+Source: [Covert, Greenstone, and Knittel (2016)](https://www.aeaweb.org/articles?id=10.1257/jep.30.1.117)
 
 ]
 
