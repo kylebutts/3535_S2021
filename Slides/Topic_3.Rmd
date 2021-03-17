@@ -193,6 +193,8 @@ Average social cost of carbon (per ton) estimate
   - r=.03 $\implies$ $36
   
   - r=.025 $\implies$ $56
+  
+*Biden just set it to $51!*
 
 ---
 class: center, middle
@@ -208,7 +210,7 @@ class: center, middle
 ---
 ## Reading for next time
 
-TBD
+[NYTimes The Daily - Biden's Climate Agenda](https://www.nytimes.com/2021/02/02/podcasts/the-daily/biden-climate-agenda.html)
 
 
 

@@ -299,7 +299,7 @@
 
 *Readings for this lecture*
 
-- TBD
+- [NYTimes' The Daily: Joe Biden's Climate Plan](https://www.nytimes.com/2021/02/02/podcasts/the-daily/biden-climate-agenda.html)
 
 
 ##### Lecture 24
