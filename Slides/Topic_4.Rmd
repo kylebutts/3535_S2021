@@ -339,13 +339,18 @@ Valuation hinged on the "non-use" value of the species, but ultimately was a cle
 
 ---
 ### Biases
-1. Strategic bias
+
+#### 1. Strategic bias
 
   - Survey answers can influence actual outcomes, so people exaggerate willingness to pay
 
   - "Sure, I would pay $10,000 to preserve that stretch of river, I go there all the time"
 
-2. Information bias
+---
+### Biases
+
+
+#### 2. Information bias
 
   - Respondents have highly variable responses when they don’t have much information about the question being asked
 
@@ -356,17 +361,21 @@ https://www.nextnature.net/2013/11/how-much-is-a-polar-bear-worth/
 
 ---
 ### Biases
-3. Starting point bias
+
+#### 3. Starting point bias
 
   - The way the question is framed will influence what people see as a reasonable answer
 
   - Survey designs sometimes often trade off this bias with information bias
 
-  - Is the height of the tallest redwood tree more or less than ___ feet? What is your best guess as to the height of the tallest redwood tree?
+  - Is the height of the tallest redwood tree more or less than ___ feet? vs. What is your best guess as to the height of the tallest redwood tree?
 
-  - Responses to the second question were greatly impacted by the number given in the first
+     - Responses to the second question were greatly impacted by the number given in the first
 
-4. Hypothetical bias
+---
+### Biases
+
+#### 4. Hypothetical bias
 
   - Respondents answer differently if they know they will not be held to their answer
 
@@ -380,7 +389,8 @@ https://www.nextnature.net/2013/11/how-much-is-a-polar-bear-worth/
 
 ---
 ### Biases
-5. Difference between WTP and WTA (status quo bias)
+
+#### 5. Difference between WTP and WTA (status quo bias)
 
   - WTP is a payment for improvement from the status quo
 
