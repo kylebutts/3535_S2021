@@ -503,7 +503,6 @@ Three houses are identical except for the following two traits:
 | Near a park?  | yes       | yes       | no        |
 | Central A/C?  | yes       | no        | yes       |
 | Market price  | $450,000  | $420,000  | $400,000  |
-| ------------- | --------- | --------- | --------- |
 
 
 Comparing A and B: central A/C is worth an extra $30,000
@@ -842,9 +841,9 @@ knitr::include_graphics("graphics/book-fig-13-1.png")
 ---
 ### Biological model
 
-$\underbar{S}$ is not zero; it is the point at which the death rate > birth rate
+$\underline{S}$ is not zero; it is the point at which the death rate > birth rate
 
-$\upperbar{S}$ on the far right is the carrying capacity
+$\bar{S}$ on the far right is the carrying capacity
   - Resources of the fishery limit population growth
   
 ```{r, echo=FALSE, out.width="80%", fig.align='center'}
@@ -856,7 +855,7 @@ knitr::include_graphics("graphics/book-fig-13-1.png")
 ---
 ### Biological model
 
-$S^* is the "Maximum sustainable yield"
+$S^*$ is the "Maximum sustainable yield"
   - Population level that enables the fastest growth rate
   
   - $G(S^*)$ is that rate
